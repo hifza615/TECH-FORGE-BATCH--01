@@ -1,0 +1,31 @@
+/* h1{
+    background-color: red;
+    font-style: italic;
+    color: yellow;
+}
+ */
+
+/* *{
+    background-color: red;
+    font-style: italic;
+    color: yellow;
+}
+ */
+
+/* h1,h2,h3{
+    background-color: red;
+    color: yellow;
+} */
+
+
+
+body {
+font-family: Arial, Verdana, sans-serif;
+color: #665544;
+padding: 10px;} 
+
+
+.page {
+border: 6px solid #665544;
+background-color: #efefef; 
+padding: inherit;} 
