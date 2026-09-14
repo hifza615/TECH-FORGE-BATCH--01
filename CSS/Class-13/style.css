@@ -1,0 +1,77 @@
+/* h1  {
+
+  background-color: rgb(122, 5, 5);  
+  
+  opacity: 50%;
+} */
+
+
+/* foreground colours - three types
+  rgb color - red green blue
+  hex code - color code 6 digit 
+  color name - name 
+*/
+
+
+/* rgb */
+
+
+/* 
+h2 {
+    background-color: #fff5cf;
+    /* font-family: cursive; */
+
+    /* font-family: fantasy; */
+/* } */ 
+
+/* HSL Color
+
+Hue 
+Saturation
+Lightness
+ */
+
+
+/* 
+ h1 {
+   font-size: 1000%;
+
+   font-weight: lighter;
+
+   font-style:italic ;
+
+   text-transform: uppercase;
+
+   /* text-decoration:line-through; */
+
+   /* text-decoration: wavy; */
+
+   /* text-decoration: blink; */
+/* 
+   line-height:12rem; */
+ /* } */ 
+ 
+ 
+ /* h1 24px
+h2   18px
+h3   14px
+body   12px */
+
+
+
+/* h1 :first-letter{
+    font-size: 300%;
+    letter-spacing: 10px;
+/* 
+    text-align: center; */
+
+    /* vertical-align:bottom;
+
+    text-shadow: 1p x1px 0px #000000; */
+
+
+/* } */ 
+
+p ::first-letter {
+font-size: xx-large;
+}
