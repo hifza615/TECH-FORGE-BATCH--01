@@ -1,0 +1,100 @@
+/* body{
+
+    background-color: blue;
+} */
+
+/* 
+ol {
+list-style-type: lower-roman;} */
+
+/* 
+ol{
+    list-style-type: disc;
+} */
+
+
+/* ol{
+    list-style-type: square;
+} */
+
+
+/* 
+li{
+    list-style-image: url(OIP.webp) } */
+
+
+    /* ul{
+        list-style: circle;
+    }
+ */
+
+/* 
+ table {
+width: 600px;}
+
+
+
+th, td {
+padding: 7px 10px 10px 10px;}
+
+
+
+th {
+text-transform: uppercase;
+letter-spacing: 0.1em;
+font-size: 90%;
+border-bottom: 2px solid black;
+border-top: 1px solid #999;
+text-align: left;}
+
+tr.even {
+background-color: #efefef;}
+
+
+tr:hover {
+background-color: red;
+text-shadow: #999;}
+
+
+.money {
+text-align: right;} */
+
+
+/* 
+td{
+   border: 2px solid gold;
+   padding: 15px;
+
+  
+} */
+/* 
+table.demo{
+
+    border-spacing: 10px;
+} */
+
+/* 
+table.demo{
+    border-collapse: collapse;
+} */
+
+
+button.submit{
+
+    background-color: red;
+    color: gold;
+
+}
+
+button:hover{
+
+    background-color: gold;
+    
+color: red;}
+
+
+button {
+    cursor: grab;
+}
+
+
