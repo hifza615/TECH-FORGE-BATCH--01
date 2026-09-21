@@ -1,0 +1,25 @@
+/* a :link {
+    color:rgb(122, 70, 96);
+    text-decoration:none;
+
+}
+a:visited {
+color: black;}
+
+
+
+a:hover {
+color: deeppink;
+text-decoration: underline;}
+
+a:active {
+color: darkcyan;}
+
+
+p[class="highlights"] {
+    background-color: yellow;
+    font-weight: bold;
+} */
+
+
+
