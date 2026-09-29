@@ -1,0 +1,82 @@
+/* h1{
+    background-color: lightblue;
+}
+
+
+p{
+    color: red;
+} */
+
+
+/* 
+p{
+ position: relative;
+
+ color: red;
+ top:50px;
+ left: 50px;
+} */
+
+
+/* p{
+ position: absolute;
+
+ color: red;
+ /* top:50px; */
+ /* left: 50px;
+} */ 
+
+
+
+/* p{
+
+    position: fixed;
+    color: red;
+}
+
+
+p.example{
+
+    margin-top: 100px;
+} */
+
+
+
+/* 
+ .chat-icon {
+            position: fixed;
+            bottom: 15px;
+            right: 15px;
+            width: 45px;
+            cursor: pointer;
+            z-index: 10;
+        } */
+
+
+
+        /* blockquote{
+            float: right;
+            width: 300px;
+            border: 1px solid black;
+            padding: 10px;
+
+            font-style: italic;
+        } */
+
+
+
+        /* div{
+           border: 3px solid red;
+        } */
+
+
+
+        /* div{
+            border: 3px solid pink;
+
+            width:100%;
+            overflow:auto;
+        } */
+
+
+        @import url('www.example.com/style.css');
